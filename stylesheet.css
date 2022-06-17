@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@300&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@300&family=Poppins&family=Questrial&display=swap');
 
 body {
   background-color: #dce4e6;
@@ -6,6 +6,7 @@ body {
 
 header {
   text-align: center;
+  margin-top: 2.5em;
 }
 
 #profile-wrapper {
@@ -36,4 +37,14 @@ header {
   font-size: 1.5em;
   margin-left: 0.5em;
   margin-right: 0.5em;
+}
+
+article {
+  text-align: center;
+  margin-top: 5em;
+}
+
+h3 {
+  font-family: 'Questrial', sans-serif;
+  font-size: 2em;
 }
