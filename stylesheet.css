@@ -16,14 +16,22 @@ header {
   width: 10em;
 }
 
-
 #name {
   font-family: 'Poppins', sans-serif;
   margin-bottom: 0.1em;
+  font-size: 2.5em;
 }
 
 #subtitle {
   font-family: 'Anek Malayalam', sans-serif;
   margin-top: 0.1em;
+  font-size: 1.5em;
+}
 
+.icon-a {
+  text-decoration: none;
+  color: black;
+  font-size: 1.5em;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
 }
