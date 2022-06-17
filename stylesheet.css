@@ -3,6 +3,7 @@
 body {
   background-color: #dce4e6;
 }
+
 header {
   text-align: center;
 }
@@ -11,6 +12,7 @@ header {
   text-align: center;
   margin-top: 2.5em;
 }
+
 #profile-pic {
   border-radius: 50%;
   width: 10em;
