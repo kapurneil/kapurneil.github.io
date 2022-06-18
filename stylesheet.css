@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@300&family=Poppins&family=Questrial&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@300&family=Manrope&family=Poppins&family=Questrial&display=swap');
 
 body {
   background-color: #dce4e6;
@@ -39,6 +39,11 @@ header {
   margin-right: 0.5em;
 }
 
+#resume {
+  font-size: 1.1em;
+  font-family: 'Manrope', sans-serif;
+}
+
 article {
   text-align: center;
   margin-top: 5em;
@@ -47,4 +52,20 @@ article {
 h3 {
   font-family: 'Questrial', sans-serif;
   font-size: 2em;
+  margin-bottom: 0.2em;
+}
+
+.body-text {
+  max-width: 50%;
+  margin: auto;
+  font-family: 'Manrope', sans-serif;
+  font-size: 1.1em;
+  margin-top: 0.5em;
+}
+
+.body-text ul {
+  text-align: left;
+  max-width: 90%;
+  margin: auto;
+  margin-left: 2em;
 }
