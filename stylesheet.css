@@ -56,7 +56,7 @@ h3 {
 }
 
 .body-text {
-  max-width: 50%;
+  max-width: 60%;
   margin: auto;
   font-family: 'Manrope', sans-serif;
   font-size: 1.1em;
@@ -64,8 +64,5 @@ h3 {
 }
 
 .body-text ul {
-  text-align: left;
-  max-width: 90%;
-  margin: auto;
-  margin-left: 2em;
+  list-style: inside;
 }
