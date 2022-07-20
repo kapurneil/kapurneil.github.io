@@ -3,7 +3,7 @@
 
 body {
   background-color: #dce4e6;
-  -webkit-font-smoothing: subpixel-antialiased;
+  font-smooth: subpixel-antialiased;
 }
 
 header {
