@@ -2,6 +2,7 @@
 
 body {
   background-color: #dce4e6;
+  -webkit-font-smoothing: subpixel-antialiased;
 }
 
 header {
@@ -23,14 +24,14 @@ header {
   font-family: 'Poppins', sans-serif;
   margin-bottom: 0.1em;
   font-size: 2.5em;
-  font-weight: normal;
+  font-weight: 700;
 }
 
 #subtitle {
   font-family: 'Anek Malayalam', sans-serif;
   margin-top: 0.1em;
   font-size: 1.5em;
-  font-weight: normal;
+  font-weight: 700;
 }
 
 .icon-a {
@@ -59,7 +60,7 @@ h3 {
   font-family: 'Questrial', sans-serif;
   font-size: 2em;
   margin-bottom: 0.2em;
-  font-weight: normal;
+  font-weight: 700;
 }
 
 .body-text {
